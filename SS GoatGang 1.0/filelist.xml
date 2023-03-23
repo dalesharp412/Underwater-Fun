@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="SS GoatGang 1.0" modversion="1.0.10" corepackage="False" gameversion="1.0.8.0">
+  <Submarine file="%ModDir%/SS GoatGang 1.0.sub" />
+  <Submarine file="%ModDir%/SS GoatGang 1.2.sub" />
+  <Submarine file="%ModDir%/SS GoatGang 1.25.sub" />
+</contentpackage>
